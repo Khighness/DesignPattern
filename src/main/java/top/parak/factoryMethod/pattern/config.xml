@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<className>ConcreteFactory1</className>
+	<className>ConcreteFactory2</className>
+	<className>ConcreteFactory3</className>
+	<className>ConcreteFactory1</className>
+	<className>ConcreteFactory2</className>
+	<className>ConcreteFactory3</className>
+</config>
