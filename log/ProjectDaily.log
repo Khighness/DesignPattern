@@ -1,0 +1,6 @@
+2020-11-10 13:43:45 PARAK INFO  [top.parak.prototype.pattern.RealizeType]- 原型创建
+2020-11-10 13:43:45 PARAK INFO  [top.parak.prototype.pattern.RealizeType]- 原型复制
+2020-11-10 13:43:45 PARAK INFO  [top.parak.prototype.pattern.Prototype]- realizeType1 == realizeType2 ? false
+2020-11-10 21:07:50 PARAK INFO  [top.parak.composite.pattern.Leaf]- 树叶1被访问
+2020-11-10 21:07:50 PARAK INFO  [top.parak.composite.pattern.Leaf]- 树叶2被访问
+2020-11-10 21:07:50 PARAK INFO  [top.parak.composite.pattern.Leaf]- 树叶3被访问
