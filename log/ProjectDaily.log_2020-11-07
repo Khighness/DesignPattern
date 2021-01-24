@@ -1,8 +1,0 @@
-2020-11-07 21:13:59 PARAK INFO  [top.parak.templateMethod.pattern.AbstractClass]- 具体方法被调用
-2020-11-07 21:13:59 PARAK INFO  [top.parak.templateMethod.pattern.ConcreteClass]- 抽象方法1的实现被调用
-2020-11-07 21:13:59 PARAK INFO  [top.parak.templateMethod.pattern.ConcreteClass]- 抽象方法2的实现被调用
-2020-11-07 22:31:37 PARAK INFO  [top.parak.strategy.pattern.ConcreteStrategyA]- 具体策略A的策略方法被访问
-2020-11-07 22:31:37 PARAK INFO  [top.parak.strategy.pattern.ConcreteStrategyB]- 具体策略B的策略方法被访问
-2020-11-07 23:15:24 PARAK INFO  [top.parak.command.pattern.CommandDemo]- 客户访问调用者的call方法
-2020-11-07 23:15:24 PARAK INFO  [top.parak.command.pattern.Invoker]- 调用者执行命令command
-2020-11-07 23:15:24 PARAK INFO  [top.parak.command.pattern.Receiver]- 接收者的action方法被调用
